@@ -11,9 +11,10 @@ store all the information of each employees. At present the project is at very b
 level, but in future it can be updated more.
 
 
-# Objective :
+## Objective :
 The objective of this project is to maintain the details of employees working on a paticular
 organization. 
 
-
-The UI is build using Python Tkinter module.
+## Techniques used :
+To get the data from user/admin a GUI is formed using Tkinter module.
+And at the backend SQLite database is used to store the information of various tables.
