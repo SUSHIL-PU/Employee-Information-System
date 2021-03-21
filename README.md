@@ -16,5 +16,5 @@ The objective of this project is to maintain the detail of employees working on 
 organization. 
 
 ## Techniques used :
-To get the data from user/admin a GUI is formed using Tkinter module.
+To get the data from user/admin a GUI is formed using Python Tkinter module.
 And at the backend SQLite database is used to store the information of various tables.
