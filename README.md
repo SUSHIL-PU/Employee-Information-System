@@ -12,7 +12,7 @@ level, but in future it can be updated more.
 
 
 ## Objective :
-The objective of this project is to maintain the details of employees working on a paticular
+The objective of this project is to maintain the detail of employees working on a paticular
 organization. 
 
 ## Techniques used :
